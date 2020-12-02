@@ -25,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Thijmat &lt;thijmat.vdg@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jEbzVhsm5z8JB6LBQAHNu3CgA1" />
@@ -66,7 +71,7 @@
       <workItem from="1605778014716" duration="906000" />
       <workItem from="1605779012832" duration="2000" />
       <workItem from="1606382542814" duration="1192000" />
-      <workItem from="1606904899466" duration="1468000" />
+      <workItem from="1606904899466" duration="3178000" />
     </task>
     <task id="LOCAL-00001" summary="v.0.">
       <created>1603701974118</created>
@@ -75,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603701974119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v.0.">
+      <created>1606906387821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606906387821</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v.1.2">
+      <created>1606906670080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606906670080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v.1.3">
+      <created>1606906869044</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606906869044</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +109,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.0." />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0." />
+    <MESSAGE value="v.1.2" />
+    <MESSAGE value="v.1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1.3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1606905603073">
+    <state x="361" y="71" key="#Deployment" timestamp="1606906861605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606905603073" />
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1606906861605" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1606910370046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606910370046" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1606906778456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1606906778456" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605778923371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -110,6 +146,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603450287226" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606906550067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606906550067" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603378189613">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
