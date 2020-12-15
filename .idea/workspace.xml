@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e534665d-6808-4d3e-81be-0b8ccf4724b2" name="Default Changelist" comment="v.0.">
+    <list default="true" id="e534665d-6808-4d3e-81be-0b8ccf4724b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,9 @@
       <workItem from="1605778014716" duration="906000" />
       <workItem from="1605779012832" duration="2000" />
       <workItem from="1606382542814" duration="1192000" />
-      <workItem from="1606904899466" duration="3178000" />
+      <workItem from="1606904899466" duration="3984000" />
+      <workItem from="1606986793974" duration="595000" />
+      <workItem from="1607594979830" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="v.0.">
       <created>1603701974118</created>
@@ -101,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606906869044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v.1.4">
+      <created>1606910396749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606910396749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v.1.5">
+      <created>1606910579341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606910579341</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,17 +127,19 @@
     <MESSAGE value="v.0." />
     <MESSAGE value="v.1.2" />
     <MESSAGE value="v.1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.1.3" />
+    <MESSAGE value="v.1.4" />
+    <MESSAGE value="v.1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1.5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Deployment" timestamp="1606906861605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1606906861605" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1606910370046">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1606910578938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606910370046" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606910578938" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1606906778456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -146,6 +164,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603450287226" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606910584161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606910584161" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606906550067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
